@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Анастасия\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Анастасия\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Анастасия\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_hw4.-2040998249.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Анастасия\RiderProjects\hw4" t="IncludeFlat">
+      <e p="hw4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Clients" t="Include">
+          <e p="FirstOrmAdapter.cs" t="Include" />
+          <e p="IOrmAdapter.cs" t="Include" />
+          <e p="SecondOrmAdapter.cs" t="Include" />
+          <e p="UserClient.cs" t="Include" />
+        </e>
+        <e p="FirstOrmLibrary" t="Include">
+          <e p="IFirstOrm.cs" t="Include" />
+        </e>
+        <e p="hw4.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="DbUserEntity.cs" t="Include" />
+          <e p="DbUserInfoEntity.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IDbEntity.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="hw4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SecondOrmLibrary" t="Include">
+          <e p="ISecondOrm.cs" t="Include" />
+        </e>
+      </e>
+      <e p="hw4.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
